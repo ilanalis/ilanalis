@@ -23,7 +23,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="vite" width="50px" height="50px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="50px" height="50px" />&nbsp;
 ## Personal projects   
-### E-COMMERSE SHOP - [Live demo](https://e-commerce-sprint-4.netlify.app/)
+### E-COMMERSE SHOP - [Live demo](https://skill-spot.netlify.app/)
 <sup>RS School Final Project</sup>
 
 Technologies Used: TypeScript. React, CSS, HTML, Vite. 
