@@ -15,6 +15,7 @@
 ## Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="js" width="50px" height="50px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="ts" width="50px" height="50px" />&nbsp; 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" title="nextjs" width="50px" height="50px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="react" width="50px" height="50px"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="html" width="50px" height="50px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="css" width="50px" height="50px" />&nbsp;
@@ -22,6 +23,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" title="webpack" width="50px" height="50px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" title="vite" width="50px" height="50px" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="git" width="50px" height="50px" />&nbsp;
+
+
 ## Personal projects   
 ### E-COMMERSE SHOP - [Live demo](https://skill-spot.netlify.app/)
 <sup>RS School Final Project</sup>
